@@ -2,4 +2,4 @@ baseURL: "https://leanoutpottery.com"
 title: Lean Out Pottery
 copyright: "© [PaperMod Contributors](https://github.com/adityatelange/hugo-PaperMod/graphs/contributors)"
 paginate: 5
-theme: [github.com/themefisher/vex-hugo]
+theme: [github.com/annahung31/vex-hugo]
